@@ -86,7 +86,7 @@ Migracao-Windows-para-Linux/
 
 Antes de iniciar minha jornada no Linux, utilizava o Windows como sistema principal para estudar.
 
-![Windows](imagens/windows.jpeg)
+![Windows](imagens/antigo-windows.png)
 
 ---
 
